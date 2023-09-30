@@ -1,1 +1,0 @@
-shel basiscs readme
