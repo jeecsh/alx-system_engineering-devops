@@ -1,1 +1,1 @@
-the first project
+first project
